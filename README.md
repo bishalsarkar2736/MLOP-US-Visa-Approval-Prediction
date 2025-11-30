@@ -1,4 +1,4 @@
 # MLOP-US-Visa-Approval-Prediction
 
 
-This is a ML Project
+This is an ML Project
