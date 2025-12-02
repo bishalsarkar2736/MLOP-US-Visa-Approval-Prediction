@@ -1,3 +1,3 @@
-from us_visa.logger import logging
+from us_visa.logger.logging import logging as custom_log
 
-logging.info("Welcome to our custom log")
+custom_log.info("Welcome to our custom log")
