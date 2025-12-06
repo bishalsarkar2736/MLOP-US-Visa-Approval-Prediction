@@ -7,3 +7,9 @@ This is an ML Project
 - MLOPs tool: https://www.evidentlyai.com/
 - Database :https://www.mongodb.com/
 - Dataset : https://www.kaggle.com/datasets/moro23/easyvisa-dataset
+
+
+# Git Commands
+git add .
+git commit -m "updated"
+git push origin main
