@@ -11,5 +11,7 @@ This is an ML Project
 
 # Git Commands
 git add .
+
 git commit -m "updated"
+
 git push origin main
